@@ -10,7 +10,7 @@ export default function WorkExperience() {
       </Head>
       <h1>Work Experience</h1>
       <h4>
-        Jun 2022 - Jul 2022:<br></br>EY Tech Consulting
+        Jun 2022 - Jul 2022:<br></br>EY Tech Consulting, Harcourt St, Dublin 2
       </h4>
       <ul>
         <li>Assist in PMO work as part of a multi team project</li>
