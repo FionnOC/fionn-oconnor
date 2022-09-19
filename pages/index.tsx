@@ -22,7 +22,8 @@ export default function Home() {
         </p>
         <p>
           I am seeking an internship that would allow me to apply my skills and
-          experiences, while also fostering my love for technology.
+          experiences, while also fostering my love for technology. Checking to
+          see if origin worked
         </p>
         {/* <p>
           (This is a sample website - you’ll be building a site like this on{' '}
